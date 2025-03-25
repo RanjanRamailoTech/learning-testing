@@ -234,22 +234,24 @@ print(user.name, user.email)
 
 ## Resources
 
-### [Pytest Tutorial – How to Test Python Code](https://www.youtube.com/watch?v=cHYq1MRoyI0)
+### [Video- Pytest Tutorial – How to Test Python Code](https://www.youtube.com/watch?v=cHYq1MRoyI0)
 
 - a comprehensive guide to complete testing basics in python
 
-### [PPyTest • REST API Integration Testing with Python](https://www.youtube.com/watch?v=7dgQRVqF1N0)
+### [Video-PyTest • REST API Integration Testing with Python](https://www.youtube.com/watch?v=7dgQRVqF1N0)
 
 - Integration Testing in python (API integration with a working api)
 
-### [Professional Python Testing with Mocks](https://www.youtube.com/watch?v=-F6wVOlsEAM)
+### [Video-Professional Python Testing with Mocks](https://www.youtube.com/watch?v=-F6wVOlsEAM)
 
 - A deep dive into mocking
 
-### [Pytest Tutorial – How to Test Python Code](https://www.youtube.com/watch?v=cHYq1MRoyI0)
-
-- a comprehensive guide to complete testing basics in python
-
-### [DjangoCon 2022 | factory_boy: testing like a pro](https://www.youtube.com/watch?v=-C-XNHAJF-c)
+### [Video- DjangoCon 2022 | factory_boy: testing like a pro](https://www.youtube.com/watch?v=-C-XNHAJF-c)
 
 - How to test complex objects using the library factory_boy. Best Practices
+
+### [Documentation- Pytest](https://docs.pytest.org/en/stable/)
+
+### [Article- A Beginner's Guide to Unit Testing with Pytest](https://betterstack.com/community/guides/testing/pytest-guide/)
+
+### [Documentation- FactoryBoy](https://factoryboy.readthedocs.io/en/stable/)
